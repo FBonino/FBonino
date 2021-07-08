@@ -30,4 +30,4 @@
 <td> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </td>
 </table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fbonino&show_icons=true&theme=merko&locale=en" alt="fbonino" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fbonino&show_icons=true&theme=merko&locale=en" alt="fbonino" /></p>
