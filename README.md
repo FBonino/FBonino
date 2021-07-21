@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Bonino</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **AltaBirra (beer eCommerce)**
+- 🔭 I’m currently working on **AltaBirra (beer ecommerce)**
 
 - 🌱 I’m currently learning **Typescript and Prisma**
 
