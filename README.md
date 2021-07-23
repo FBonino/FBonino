@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AltaBirra (beer ecommerce)**
 
-- 🌱 I’m currently learning **Typescript and Prisma**
+- 🌱 I’m currently learning **React Native, Typescript and Prisma**
 
 - 📫 How to reach me **boninoffranco@gmail.com**
 
