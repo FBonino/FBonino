@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Franco Bonino</h1>
+<h1 align="center">Franco Bonino Fernandez</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">Contact me:</h3>
