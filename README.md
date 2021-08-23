@@ -1,15 +1,15 @@
 <h1 align="center">Franco Bonino Fernandez</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<h3 align="left"> Contact </h3>
+<h4 align="left"> Contact </h4>
    
 <p align="left">
-<a href="https://linkedin.com/in/fbonino" target="blank" margin="60"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="linkedin" height="30" width="40" /></a>
-<a href="https://portfolio-fbonino.vercel.app" target="blank" margin="60"><img align="center" src="https://image.flaticon.com/icons/png/32/1086/1086437.png" alt="portfolio" /></a>
-<a href="mailto:boninoffranco@gmail.com" target="blank" margin="60"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="mail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fbonino" target="blank" margin="30px"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="linkedin" height="30" width="40" /></a>
+<a href="https://portfolio-fbonino.vercel.app" target="blank" margin="30px"><img align="center" src="https://image.flaticon.com/icons/png/32/1086/1086437.png" alt="portfolio" /></a>
+<a href="mailto:boninoffranco@gmail.com" target="blank" margin="30px"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="mail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 <table align="center" border="2px grey">
 <td> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </td>
